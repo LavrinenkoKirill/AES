@@ -1,0 +1,52 @@
+﻿  AES.cpp
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(70,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(397,64): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(425,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(438,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(456,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(467,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(511,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(524,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(542,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(553,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(606,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(607,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(634,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(635,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(653,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(654,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(681,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(682,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(700,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(701,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(729,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(730,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(748,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(749,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(777,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(778,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(791,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(802,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(818,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(829,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(850,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(861,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(877,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(888,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(937,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(948,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(964,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(975,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(997,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(1008,68): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(1024,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(1035,78): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(1056,64): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Main.cpp
+  Создание кода...
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(845): warning C4715: AES::EncryptVector: значение возвращается не при всех путях выполнения
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(904): warning C4715: AES::EncryptVectorOFB: значение возвращается не при всех путях выполнения
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(991): warning C4715: AES::DecryptVector: значение возвращается не при всех путях выполнения
+C:\Users\Kirill\source\repos\AES\AES\AES.cpp(1051): warning C4715: AES::DecryptVectorOFB: значение возвращается не при всех путях выполнения
+  AES.vcxproj -> C:\Users\Kirill\source\repos\AES\x64\Debug\AES.exe
